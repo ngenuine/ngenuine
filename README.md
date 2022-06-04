@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngenuine
 - 👀 I’m interested in diversify my skills
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and algorithms
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me grinev-nikk@yandex.ru
 
